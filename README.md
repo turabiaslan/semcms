@@ -1,5 +1,5 @@
-# semcms
-Sem CMS 4.8 Unauthenticated User Gains Admin Privilege
+# Sem CMS 4.8 Unauthenticated User Gains Admin Privilege
+
 
 Introduction to Semcms
 
