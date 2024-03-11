@@ -123,6 +123,6 @@ Let's try the new user on the application:
 ![image](https://github.com/turabiaslan/semcms/assets/32524544/4961d962-4728-429a-a641-d021a79ae590)
 
 
-We successfully login to our newly added 
+We successfully login to our newly added user
 
 ![image](https://github.com/turabiaslan/semcms/assets/32524544/87330e72-c1d8-4a14-b3c2-6e786cc212f4)
